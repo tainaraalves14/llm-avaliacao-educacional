@@ -1,0 +1,6 @@
+questao_id,questao_texto,alternativa_1,alternativa_2,alternativa_3,alternativa_4,alternativa_correta
+1,"Qual é a capital da França?",Paris,Londres,Berlim,Romano,Paris
+2,"Quem escreveu a obra 'Dom Casmurro'?",Machado de Assis,José de Alencar,Clarice Lispector,Graciliano Ramos,Machado de Assis
+3,"Explique o conceito de inteligência artificial.",,,,"Resposta esperada: A inteligência artificial é um campo da computação que visa criar sistemas capazes de realizar tarefas que normalmente requerem inteligência humana."
+4,"O que é a teoria da relatividade?",,,,"Resposta esperada: A teoria da relatividade, proposta por Albert Einstein, descreve como o espaço e o tempo são interdependentes e como a gravidade influencia o movimento dos corpos."
+5,"Qual é a fórmula da área de um triângulo?",A = 1/2 * base * altura, A = base * altura, A = base * 2, A = 2 * base * altura, A = 1/2 * base * altura
